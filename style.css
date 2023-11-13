@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, #05056e, #0a0a0a, #c3c3ca);
+    height: 100vh;
+    color: #fafafc;
+    font-size: 50px;
+}
+
+.relogio{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550;
+    background: transparent;
+    border-radius: 3px;
+    box-shadow: 0px, 8px, 10px, rgba(5, 5, 255, 0.705);
+}
